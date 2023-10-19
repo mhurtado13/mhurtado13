@@ -7,7 +7,7 @@
 - 🧬 Research interests in Cancer biology and Immunooncology.
 - 🔭 Currently working in modeling multiscale and multicellular systems in cancer biology. 
 - 💻 Experienced working with transcriptomics data, machine learning models, data visualization, and data analysis in R and Python.
-- 👨‍💻 Additional experience in Synthetic Biology using computational tools for genome editing and modification of biological organisms.
+- 👨‍💻 Additional experience using computational tools for genome editing and modification of biological organisms.
 - 🌱 Currently learning about reinforcement learning.
 
 <h3 align="left">Connect with me:</h3>
