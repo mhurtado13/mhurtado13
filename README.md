@@ -7,7 +7,7 @@
 - 🧬 Research interests in Cancer biology and Immunooncology.
 - 🔭 Currently working in modeling multiscale and multicellular systems in Cancer Biology. 
 - 💻 Experienced working with transcriptomics data, machine learning models, data visualization, and data analysis in R and Python.
-- 👨‍💻 Additional experience using computational tools for genome editing (CRISPR Cas9, gRNAs, Zinc Fingers) and modification of biological organisms.
+- 👨‍💻 Additional experience using computational tools for genome editing (CRISPR Cas9, gRNAs, Zinc Fingers).
 - 🌱 Interested in learning about spatial transcriptomics, reinforcement learning and epigenomics.
 
 <h3 align="left">Connect with me:</h3>
