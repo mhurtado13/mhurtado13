@@ -14,12 +14,23 @@
 <p align="left">
 <a href="https://twitter.com/@marcelohurt13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@marcelohurt13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcelo-hurtado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo-hurtado/" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/1/#inbox" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="marcelo-hurtado/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://marketplace-assets.digitalocean.com/logos/rstudio-20-04.svg" alt="R" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-700x394.png" alt="python" width="70" height="40"/> </a><a href="https://biopython.org/" target="_blank" rel="noreferrer"> <img src="https://biopython.org/assets/images/biopython_logo_white.png" alt="r-project" width="60" height="40"/> </a> <a href="https://www.snapgene.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.snapgene.com/assets/16.23.33/assets/images/snapgene/logo/logo-snapgene-dotmatics.svg" alt="snapgene" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
- 
+![R](https://img.shields.io/badge/RStudio-1324888760041419195.svg?style=flat-square&logo=Rstudio&logoColor=white&labelColor=darkblue&color=darkblue)
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
+![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhurtado13&show_icons=true&locale=en&layout=compact" alt="mhurtado13" /></p>
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhurtado13&theme=github-compact)](https://github.com/mhurtado13/github-readme-activity-graph)
