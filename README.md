@@ -1,4 +1,4 @@
-<h1 align="center"> Marcelo Hurtado 👋 </h1>
+<h1 align="center"> Marcelo Hurtado 👨‍💻 </h1>
 <h2 align="center"> Bioinformatics Scientist </h2>
 
 ### :space_invader: &nbsp;About Me
