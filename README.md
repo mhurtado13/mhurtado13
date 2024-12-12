@@ -6,7 +6,7 @@
 - 👩‍🔬 PhD student in Computational Biology.
 - 🧬 Research interests in Cancer biology and Immunooncology.
 - 🔭 Currently working in modeling multiscale and multicellular systems in Cancer Biology. 
-- 💻 Experienced working with transcriptomics data, machine learning models, data visualization, and data analysis in R and Python.
+- 💻 Experienced working with transcriptomics data (bulk and scRNAseq), cell deconvolution, machine learning, data visualization, and data analysis in R and Python.
 - 👨‍💻 Additional experience using computational tools for genome editing (CRISPR Cas9, gRNAs, Zinc Fingers).
 - 🌱 Interested in learning about spatial transcriptomics, reinforcement learning and epigenomics.
 
