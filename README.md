@@ -31,10 +31,16 @@
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 
 
+# Activity Statistics
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mhurtado13&include_all_commits=true&show_icons=true&rank_icon=percentile&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhurtado13&layout=compact&theme=transparent)
+
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhurtado13&show_icons=true&locale=en&layout=compact" alt="mhurtado13" /></p>
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhurtado13&theme=github-compact)](https://github.com/mhurtado13/github-readme-activity-graph)
-
+-->
 
 
 <!--
