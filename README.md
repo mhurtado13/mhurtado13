@@ -17,8 +17,8 @@ I am a bioengineer and bioinformatics scientist pursuing a PhD in Computational 
 
 My research focuses on understanding cancer biology and tumor ecosystems through quantitative and computational approaches, including **multiscale and multicellular modeling**, transcriptomics, and immuno-oncology.
 
-- 🧬 Cancer biology, tumor microenvironments, and immuno-oncology
-- 🔬 Bulk and single-cell RNA-sequencing analysis, cell-type deconvolution, and data visualization
+- 🧬 Cancer biology, tumor microenvironment, and immuno-oncology
+- 🔬 Bulk and single-cell RNA-sequencing analysis, cell-type deconvolution, and gene regulatory networks
 - 🤖 Machine learning and computational modeling for biological systems
 - 🧪 Computational genome editing with CRISPR-Cas9, gRNAs, and zinc fingers
 - 🌱 Currently exploring spatial transcriptomics, reinforcement learning, and epigenomics
