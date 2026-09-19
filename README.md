@@ -48,7 +48,7 @@ These are the main software packages I have developed
       </a>
     </td>
     <td align="center" width="220">
-      <a href="https://cran.r-project.org/package=RaCInG">
+      <a href="https://github.com/VeraPancaldiLab/RaCInG_package">
         <img src="https://raw.githubusercontent.com/VeraPancaldiLab/RaCInG_package/main/man/figures/logo.png" width="110" alt="RaCInG logo placeholder" /><br />
         <strong>RaCInG 2.0</strong>
       </a>
