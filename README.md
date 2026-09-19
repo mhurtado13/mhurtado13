@@ -14,7 +14,7 @@
 
 ## About me
 
-I am a bioengineer and bioinformatics scientist pursuing a PhD in Computational Biology, affiliated with the **Cancer Research Center of Toulouse** and the **Vera Pancaldi Lab**.
+I am a bioengineer and bioinformatics scientist pursuing a PhD in Computational Biology, working in the **Cancer Research Center of Toulouse** and the **Vera Pancaldi Lab**.
 
 My research focuses on understanding cancer biology and tumor ecosystems through quantitative and computational approaches, including **multiscale and multicellular modeling**, transcriptomics, and immuno-oncology.
 
@@ -26,7 +26,7 @@ My research focuses on understanding cancer biology and tumor ecosystems through
 
 ## Software tools
 
-These are the main software packages I have developed in collaboration with the Vera Pancaldi Lab.
+These are the main software packages I have developed
 
 <table>
   <tr>
@@ -50,18 +50,16 @@ These are the main software packages I have developed in collaboration with the 
     </td>
     <td align="center" width="220">
       <a href="https://cran.r-project.org/package=RaCInG">
-        <img src="https://raw.githubusercontent.com/VeraPancaldiLab/CellTFusion/main/man/figures/logo.png" width="110" alt="RaCInG logo placeholder" /><br />
+        <img src="https://raw.githubusercontent.com/VeraPancaldiLab/RaCInG_package/main/man/figures/logo.png" width="110" alt="RaCInG logo placeholder" /><br />
         <strong>RaCInG 2.0</strong>
       </a>
     </td>
   </tr>
 </table>
 
-> Note: RaCInG 2.0 is a CRAN-distributed package and the public GitHub mirror is not consistently hosted under the same package repository pattern as the tools above. The CRAN link is the canonical package page.
+> Note: RaCInG 2.0 is an improved version of an existing package, check the project for more details.
 
 ## Projects
-
-These projects are part of the Vera Pancaldi Lab portfolio and reflect my work in cancer systems biology, computational immunology, transcriptomic modeling, and spatial omics.
 
 | Project | Description |
 | --- | --- |
@@ -69,9 +67,6 @@ These projects are part of the Vera Pancaldi Lab portfolio and reflect my work i
 | [**LungPredict_DC_paper**](https://github.com/VeraPancaldiLab/LungPredict_DC_paper) | Transcriptomic and spatial analysis of dendritic-cell subsets in immunotherapy response. |
 | [**NLC-CLL_HPC_exploration**](https://github.com/VeraPancaldiLab/NLC-CLL_HPC_exploration) | Parameter exploration for the NLC–CLL PhysiCell model. |
 | [**ABM_NLC-CLL**](https://github.com/VeraPancaldiLab/Agent-Based-Model-of-NLC-in-CLL) | Agent-based modeling of NLC dynamics in chronic lymphocytic leukemia. |
-| [**CellTFusion_paper**](https://github.com/VeraPancaldiLab/CellTFusion_paper) | Publication-focused repository for the CellTFusion project. |
-| [**pipeML_paper**](https://github.com/VeraPancaldiLab/pipeML_paper) | Reproducible analysis and results for the pipeML study. |
-| [**multideconv_paper**](https://github.com/VeraPancaldiLab/multideconv_paper) | Reproducible analysis and results for the multideconv study. |
 
 ## Technical skills
 
