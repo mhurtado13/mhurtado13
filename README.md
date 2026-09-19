@@ -1,59 +1,71 @@
-<h1 align="center"> Marcelo Hurtado 👨‍💻 </h1>
-<h2 align="center"> Bioinformatics Scientist </h2>
+<div align="center">
 
-### :space_invader: &nbsp;About Me
+# Marcelo Hurtado 👨‍💻
 
-- 👩‍🔬 PhD student in Computational Biology.
-- 🧬 Research interests in Cancer biology and Immunooncology.
-- 🔭 Currently working in modeling multiscale and multicellular systems in Cancer Biology. 
-- 💻 Experienced working with transcriptomics data (bulk and scRNAseq), cell deconvolution, machine learning, data visualization, and data analysis in R and Python.
-- 👨‍💻 Additional experience using computational tools for genome editing (CRISPR Cas9, gRNAs, Zinc Fingers).
-- 🌱 Interested in learning about spatial transcriptomics, reinforcement learning and epigenomics.
+### Bioinformatics Scientist · Computational Biology PhD Researcher
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@marcelohurt13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@marcelohurt13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marcelo-hurtado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo-hurtado/" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/1/#inbox" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="marcelo-hurtado/" height="30" width="40" /></a>
-</p>
+[![Website](https://img.shields.io/badge/Website-mhurtado13.github.io-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://mhurtado13.github.io/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--6712--0864-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6712-0864)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo%20Hurtado-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-hurtado/)
+[![Twitter](https://img.shields.io/badge/Twitter-%40marcelohurt13-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/marcelohurt13)
 
-<h3 align="left">Languages and Tools:</h3>
+</div>
 
-![R](https://img.shields.io/badge/RStudio-1324888760041419195.svg?style=flat-square&logo=Rstudio&logoColor=white&labelColor=darkblue&color=darkblue)
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
-![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+## About me
 
+I am a bioengineer and bioinformatics scientist pursuing a PhD in Computational Biology. I am affiliated with the **Cancer Research Center of Toulouse** and work in the **Vera Pancaldi Lab**.
 
-# Activity Statistics
+My research focuses on understanding cancer ecosystems through computational and quantitative approaches, including **multiscale and multicellular modeling**, transcriptomics, and immuno-oncology.
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mhurtado13&include_all_commits=true&show_icons=true&rank_icon=percentile&theme=transparent)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhurtado13&layout=compact&theme=transparent)
+- 🧬 Cancer biology, tumor microenvironments, and immuno-oncology
+- 🔬 Bulk and single-cell RNA-sequencing analysis, cell-type deconvolution, and data visualization
+- 🤖 Machine learning and agent-based modeling for biological systems
+- 🧪 Computational genome editing with CRISPR-Cas9, gRNAs, and zinc fingers
+- 🌱 Currently exploring spatial transcriptomics, reinforcement learning, and epigenomics
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhurtado13&show_icons=true&locale=en&layout=compact" alt="mhurtado13" /></p>
+## Selected projects
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhurtado13&theme=github-compact)](https://github.com/mhurtado13/github-readme-activity-graph)
--->
+| Project | Description |
+| --- | --- |
+| [**multideconv**](https://github.com/mhurtado13/multideconv) | Integrative R pipeline for cell-type deconvolution from bulk RNA-seq data. |
+| [**pipeML**](https://github.com/mhurtado13/pipeML) | Customizable, leakage-free machine-learning framework in R. |
+| [**ABM_NLC-CLL**](https://github.com/mhurtado13/ABM_NLC-CLL) | PhysiCell model of NLC–CLL differentiation. |
+| [**NLC-CLL_HPC_exploration**](https://github.com/mhurtado13/NLC-CLL_HPC_exploration) | High-performance parameter exploration for the NLC–CLL model. |
+| [**LungPredict1_paper**](https://github.com/mhurtado13/LungPredict1_paper) | Transcriptomic profiling of the NSCLC tumor microenvironment. |
+| [**LungPredict_DC_paper**](https://github.com/mhurtado13/LungPredict_DC_paper) | Transcriptomic and spatial analysis of dendritic-cell subsets during immunotherapy. |
 
+## Technical skills
 
-<!--
-**mhurtado13/mhurtado13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Programming and analysis**
 
-Here are some ideas to get you started:
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Platforms and tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## GitHub activity
+
+<!-- The `show` parameter keeps the card lightweight and avoids deprecated metrics. -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhurtado13&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&theme=transparent" height="170" alt="Marcelo's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhurtado13&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="170" alt="Most used programming languages" />
+</div>
+
+> If the cards are temporarily unavailable, GitHub may be rate-limiting the public `github-readme-stats` service. The cards are intentionally kept to the supported API endpoints; refreshing later generally resolves transient fetch errors.
+
+---
+
+<div align="center">
+
+📫 For collaborations, research questions, or project discussions, please reach out through [LinkedIn](https://www.linkedin.com/in/marcelo-hurtado/) or visit my [website](https://mhurtado13.github.io/).
+
+</div>
