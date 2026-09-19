@@ -26,23 +26,52 @@ My research focuses on understanding cancer biology and tumor ecosystems through
 
 ## Software tools
 
-These are software packages and pipelines I have developed or contributed to in computational biology and bioinformatics.
+These are the main software packages I have developed in collaboration with the Vera Pancaldi Lab.
 
-| Tool | Description | Stack |
-| --- | --- | --- |
-| [**multideconv**](https://github.com/VeraPancaldiLab/multideconv) | Integrative deconvolution pipeline for estimating cell-type proportions from bulk RNA-seq data. | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| [**pipeML**](https://github.com/VeraPancaldiLab/pipeML) | Machine-learning workflow for customizable, leakage-aware model training and evaluation. | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| [**CellTFusion**](https://github.com/FRahman-lab/CellTFusion) | Computational framework integrating transcription factor activity and cell-state inference. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**RaCInG 2.0**](https://github.com/davidruvolo51/racing) | Computational framework for regulatory and causal inference workflows. | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://github.com/VeraPancaldiLab/multideconv">
+        <img src="https://raw.githubusercontent.com/VeraPancaldiLab/multideconv/main/man/figures/logo.png" width="110" alt="multideconv logo" /><br />
+        <strong>multideconv</strong>
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="https://github.com/VeraPancaldiLab/pipeML">
+        <img src="https://raw.githubusercontent.com/VeraPancaldiLab/pipeML/main/man/figures/logo.png" width="110" alt="pipeML logo" /><br />
+        <strong>pipeML</strong>
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="https://github.com/VeraPancaldiLab/CellTFusion">
+        <img src="https://raw.githubusercontent.com/VeraPancaldiLab/CellTFusion/main/man/figures/logo.png" width="110" alt="CellTFusion logo" /><br />
+        <strong>CellTFusion</strong>
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="https://cran.r-project.org/package=RaCInG">
+        <img src="https://raw.githubusercontent.com/VeraPancaldiLab/CellTFusion/main/man/figures/logo.png" width="110" alt="RaCInG logo placeholder" /><br />
+        <strong>RaCInG 2.0</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+> Note: RaCInG 2.0 is a CRAN-distributed package and the public GitHub mirror is not consistently hosted under the same package repository pattern as the tools above. The CRAN link is the canonical package page.
 
 ## Projects
 
+These projects are part of the Vera Pancaldi Lab portfolio and reflect my work in cancer systems biology, computational immunology, transcriptomic modeling, and spatial omics.
+
 | Project | Description |
 | --- | --- |
-| [**ABM_NLC-CLL**](https://github.com/mhurtado13/ABM_NLC-CLL) | PhysiCell model of NLC–CLL differentiation. |
-| [**NLC-CLL_HPC_exploration**](https://github.com/mhurtado13/NLC-CLL_HPC_exploration) | High-performance parameter exploration for the NLC–CLL model. |
-| [**LungPredict1_paper**](https://github.com/mhurtado13/LungPredict1_paper) | Transcriptomic profiling of the NSCLC tumor microenvironment. |
-| [**LungPredict_DC_paper**](https://github.com/mhurtado13/LungPredict_DC_paper) | Transcriptomic and spatial analysis of dendritic-cell subsets during immunotherapy. |
+| [**LungPredict1_paper**](https://github.com/VeraPancaldiLab/LungPredict1_paper) | Profiling the NSCLC tumor microenvironment from transcriptomic data. |
+| [**LungPredict_DC_paper**](https://github.com/VeraPancaldiLab/LungPredict_DC_paper) | Transcriptomic and spatial analysis of dendritic-cell subsets in immunotherapy response. |
+| [**NLC-CLL_HPC_exploration**](https://github.com/VeraPancaldiLab/NLC-CLL_HPC_exploration) | Parameter exploration for the NLC–CLL PhysiCell model. |
+| [**ABM_NLC-CLL**](https://github.com/VeraPancaldiLab/Agent-Based-Model-of-NLC-in-CLL) | Agent-based modeling of NLC dynamics in chronic lymphocytic leukemia. |
+| [**CellTFusion_paper**](https://github.com/VeraPancaldiLab/CellTFusion_paper) | Publication-focused repository for the CellTFusion project. |
+| [**pipeML_paper**](https://github.com/VeraPancaldiLab/pipeML_paper) | Reproducible analysis and results for the pipeML study. |
+| [**multideconv_paper**](https://github.com/VeraPancaldiLab/multideconv_paper) | Reproducible analysis and results for the multideconv study. |
 
 ## Technical skills
 
