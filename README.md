@@ -8,7 +8,6 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--6712--0864-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6712-0864)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo%20Hurtado-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-hurtado/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40marcelohurt13-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/marcelohurt13)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Search-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?q=Marcelo+Hurtado+Cancer+Research+Center+Toulouse)
 
 </div>
 
