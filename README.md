@@ -90,10 +90,10 @@ These are the main software packages I have developed
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhurtado13&theme=github_dark" width="100%" alt="GitHub statistics for Marcelo Hurtado" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhurtado13&theme=github" width="100%" alt="GitHub statistics for Marcelo Hurtado" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhurtado13&theme=github_dark" width="100%" alt="Most used programming languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhurtado13&theme=github" width="100%" alt="Most used programming languages" />
     </td>
   </tr>
 </table>
