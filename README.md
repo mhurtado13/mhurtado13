@@ -88,13 +88,10 @@ These are the main software packages I have developed
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhurtado13&theme=github_dark" width="95%" alt="GitHub profile summary for Marcelo Hurtado" />
-  <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhurtado13&theme=github_dark" height="170" alt="GitHub statistics for Marcelo Hurtado" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhurtado13&theme=github_dark" height="170" alt="Most used programming languages" />
 </div>
 
-> These cards are provided by `github-profile-summary-cards`, an alternative to the previous stats endpoint.
 
 ---
 
