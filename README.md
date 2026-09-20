@@ -88,11 +88,13 @@ These are the main software packages I have developed
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhurtado13&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&theme=transparent" height="170" alt="Marcelo's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhurtado13&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="170" alt="Most used programming languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhurtado13&theme=github_dark" width="95%" alt="GitHub profile summary for Marcelo Hurtado" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhurtado13&theme=github_dark" height="170" alt="GitHub statistics for Marcelo Hurtado" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhurtado13&theme=github_dark" height="170" alt="Most used programming languages" />
 </div>
 
-> The GitHub stats cards depend on the public `github-readme-stats` service. Temporary fetch issues can appear when that service is rate-limited or unavailable.
+> These cards are provided by `github-profile-summary-cards`, an alternative to the previous stats endpoint.
 
 ---
 
