@@ -13,7 +13,7 @@
 
 ## About me
 
-I am a bioengineer and bioinformatics scientist pursuing a PhD in Computational Biology, working in the **Cancer Research Center of Toulouse** and the **Vera Pancaldi Lab**.
+I am a bioengineer and bioinformatics scientist pursuing a PhD in Computational Biology, working in the **Cancer Research Center of Toulouse** and the [**Vera Pancaldi Lab**](https://verapancaldilab.github.io/).
 
 My research focuses on understanding cancer biology and tumor ecosystems through quantitative and computational approaches, including **multiscale and multicellular modeling**, transcriptomics, and immuno-oncology.
 
